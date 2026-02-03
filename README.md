@@ -25,7 +25,7 @@
 user@dunky-lab:~$ ./status_check.sh
 
 > IDENTITY......: DunKy
-> CLASS.........: DevSecOps Engineer | AI Architect
+> CLASS.........: DevSecOps Cloud AI
 > LOCATION......: Encrypted Node [France]
 > CURRENT_TASK..: Securing Cloud Infrastructures & Training Neural Nets
 > MOOD..........: ☕ Tea && 🔒 Zero Trust
